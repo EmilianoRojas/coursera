@@ -107,7 +107,7 @@ export default class HeaderComponent extends Component {
                 Remember me
                 </Label>
               </FormGroup>
-              <div class="row justify-content-center">
+              <div className="row justify-content-center">
                 <Button type="submit" color='primary' className="btn btn-primary">Login</Button>
               </div>
             </Form>
